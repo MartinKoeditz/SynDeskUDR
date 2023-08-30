@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="SynDeskUDR.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="25" Y="17"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udr_init.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Udr_Init"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="59" Y="18"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SynDeskLevenshtein"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="25" Y="14"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\fbintf\fbudr.pas"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="44" Y="15"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\fbintf\udr\source\FBUDRUtils.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="844"/>
+        <CursorPos X="111" Y="868"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\fbintf\udr\source\FBUDRController.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="216"/>
+        <CursorPos X="16" Y="243"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="65" Column="29" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="71" Column="17" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="82" Column="41" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="73" Column="8" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="75" Column="39" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="78" Column="10" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="71" Column="27" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="5" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="70" Column="31" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="66" Column="37" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="69" Column="39" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="66" Column="37" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="81" Column="22" TopLine="64"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="66" Column="32" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="73" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="72" Column="51" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="82" Column="38" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fbintf\udr\source\FBUDRController.pas"/>
+        <Caret Line="118" Column="39" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fbintf\udr\source\FBUDRController.pas"/>
+        <Caret Line="284" Column="17" TopLine="250"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fbintf\udr\source\FBUDRController.pas"/>
+        <Caret Line="62" Column="62" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fbintf\udr\source\FBUDRController.pas"/>
+        <Caret Line="245" Column="56" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="80" Column="44" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="14" Column="22" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="17" Column="7" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="22" Column="7" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="79" Column="24" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="14" Column="65"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="110" Column="29" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="134" Column="5" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="syndesklevenshtein.pas"/>
+        <Caret Line="54" Column="22" TopLine="35"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
