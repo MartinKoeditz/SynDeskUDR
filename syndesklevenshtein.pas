@@ -12,7 +12,7 @@ const
 type
   IncInMessage = record
     v1: record       // Erste Zeichenkette
-      Length: Word;
+      Length: Smallint;
       Value: array [0..vcFb - 1] of AnsiChar;
     end;
     v1Null: WordBool;
