@@ -13,7 +13,7 @@ library SynDeskUDR;
 
 uses
   Udr_Init,
-  UdrInc in 'SynDeskLevenshtein.pas';
+  SynDeskLevenshtein in 'SynDeskLevenshtein.pas';
 
 exports firebird_udr_plugin;
 begin
